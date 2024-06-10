@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **aaryasingh1602@gmail.com**
 
-- 📄 Know about my experiences [I participated in Hacktoberfest 2023.Currently contributing in Social Winter of Code.](I participated in Hacktoberfest 2023.Currently contributing in Social Winter of Code.)
+- 📄 Know about my experiences [I participated in Rajasthan Police Hackhathon.
+- I participated in Hacktoberfest 2023.Currently contributing in Social Winter of Code.]
 
 - ⚡ Fun fact **I also do CP.**
 
