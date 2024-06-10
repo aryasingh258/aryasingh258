@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasingh258&label=Profile%20views&color=0e75b6&style=flat" alt="aryasingh258" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA(JAVA)**
+- 🌱 I’m currently learning **Machine Learning , DSA(JAVA)**
 
-- 💬 Ask me about **CSS, HTML, JAVA, OPEN SOURCE, PYTHON**
+- 💬 Ask me about **REACT JS, CSS, HTML, JAVA, OPEN SOURCE, PYTHON**
 
 - 📫 How to reach me **aaryasingh1602@gmail.com**
 
