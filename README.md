@@ -1,4 +1,8 @@
-![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<div style="text-align: center;">
+  <a href="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984">
+    <img src="https://media.tenor.com/images/a2384d8f42e9a5d632c5d1e4b78d3b14/tenor.gif" width="50%" alt="Digital Skola Bertalenta Digital Sticker">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Arya Singh</h1>
 <h3 align="center">A passionate data science enthusiast and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
