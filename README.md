@@ -2,6 +2,11 @@
   <a href="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984">
     <img src="https://media.tenor.com/images/a2384d8f42e9a5d632c5d1e4b78d3b14/tenor.gif" width="50%" alt="Digital Skola Bertalenta Digital Sticker">
   </a>
+  <p>
+    <a href="https://tenor.com/view/digital-skola-bertalenta-digital-data-enthusiast-data-science-data-engineer-gif-21582984">Digital Skola Bertalenta Digital Sticker</a>
+    from 
+    <a href="https://tenor.com/search/digital+skola-stickers">Digital Skola Stickers</a>
+  </p>
 </div>
 <h1 align="center">Hi 👋, I'm Arya Singh</h1>
 <h3 align="center">A passionate data science enthusiast and frontend developer from India</h3>
