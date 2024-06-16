@@ -1,4 +1,4 @@
-
+![Coding GIF](https://media.tenor.com/images/a2384d8f42e9a5d632c5d1e4b78d3b14/tenor.gif)
 
 <h1 align="center">Hi 👋, I'm Arya Singh</h1>
 <h3 align="center">A passionate data science enthusiast and frontend developer from India</h3>
