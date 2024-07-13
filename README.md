@@ -11,9 +11,9 @@
 
 📄 Know about my experiences
 
-[I participated in Rajasthan Police Hackhathon.
-
-I participated in Hacktoberfest 2023.Contributed in Social Winter of Code.]
+  I participated in Myntra Hackerramp WeforShe 2024
+  I participated in Rajasthan Police Hackhathon.
+  I participated in Hacktoberfest 2023.Contributed in Social Winter of Code.
 
 ⚡ Fun fact I have knowledge of frontend.
 
